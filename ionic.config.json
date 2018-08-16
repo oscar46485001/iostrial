@@ -1,0 +1,7 @@
+{
+  "name": "iostrial",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
